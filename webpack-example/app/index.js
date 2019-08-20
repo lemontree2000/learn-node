@@ -1,7 +1,8 @@
 import React from 'react'
 import ReactDom from 'react-dom'
 
+
 ReactDom.render(
-    <h3>heel</h3>,
+    <h1>hello</h1>,
     document.getElementById('app')
-)
+);

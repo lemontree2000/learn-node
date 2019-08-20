@@ -20,6 +20,7 @@
     "gulp-babel": "^7.0.1",
     "gulp-concat": "^2.6.1",
     "gulp-sourcemaps": "^2.6.5",
+    "gulp-watch": "^5.0.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
   },

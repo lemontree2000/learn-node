@@ -11,8 +11,8 @@ var _reactDom2 = _interopRequireDefault(_reactDom);
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 _reactDom2.default.render(_react2.default.createElement(
-    'h1',
+    'h3',
     null,
-    'Hello world'
+    'heel'
 ), document.getElementById('app'));
 //# sourceMappingURL=all.js.map
