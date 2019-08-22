@@ -12,10 +12,14 @@
   "dependencies": {
     "@types/connect": "^3.4.32",
     "@types/node": "^12.7.2",
+    "@types/redis": "^2.8.13",
     "@types/sqlite3": "^3.1.5",
     "async": "^3.1.0",
     "htmlparser": "^1.7.7",
     "node-readability": "^3.0.0",
     "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.1"
   }
 }
